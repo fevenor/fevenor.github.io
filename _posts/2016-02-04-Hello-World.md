@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hello World
-tagline: web
-category: null
-tags: []
+category: blog
+tags:
+  - blog
 published: true
 
 ---
